@@ -1,0 +1,166 @@
+{
+  "main":{
+    "name":"Brian Dennis",
+    "occupation":"Web Developer, programmer and designer",
+    "description":"I am a self-taught web developer with a passion for learning and advancements in the evolvement of education. I am looking to use and develop my skills in efficient coordination, organization, and quick decision making to meet deadlines in a team environment as a full stack developer.",
+    "image":"Brian-Dennis.jpg",
+    "bio":"I am a proud parent of three wonderful kids and happily married first and foremost. I love web development, it is more than a career or job to me it is my hobby I love creating things with my fingertips. However, my biggest enjoyment with web development would have to be javascript I love the robustness of it, I love the fact that it's full potential still has yet to be reached. Besides web development I love camping, kayaking, hiking, riding bikes also enjoy spending quality time with my family.",
+    "email":"briandennis49@outlook.com",
+    "phone":"1 (509) 710-4101",
+    "address":{
+      "street":"204 N Washington St.",
+      "city":"Spokane",
+      "state":"WA",
+      "zipcode":"99022"
+    },
+    "website":"https://github.com/Brian-Dennis/",
+    "resumedownload":"http://something.com",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"http://facebook.com",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"google-plus",
+        "url":"http://googleplus.com",
+        "className":"fa fa-google-plus"
+      },
+      {
+        "name":"linkedin",
+        "url":"http://linkedin.com",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"http://skype.com",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "education":[
+      {
+        "school":"Udacity",
+        "degree":"Full Stack Web Developer Nanodegree",
+        "graduated":"09/2017"
+      },
+      {
+        "school":"Southern New Hampshire University",
+        "degree":"B.S. Information Technology w/concentration in Web Development",
+        "graduated":"N/A"
+      }
+    ],
+    "work":[
+      {
+        "company":"Lincoln County Hospital ",
+        "title":"Emergency Medical Technician",
+        "years":"Sept 08 2015 - Dec 20 2016",
+        "description":"Emergency Medical Technicians-Basic (EMT-B) respond to emergency calls to provide efficient and immediate care to the critically ill and injured, and to transport the patient to a medical facility. After receiving the call from the dispatcher, the EMT-B drives the ambulance to address or location given, using the most expeditious route, depending on traffic and weather conditions. The EMT-B must observe traffic ordinances and regulations concerning emergency vehicle operation."
+      },
+      {
+        "company":"LaunchedIT",
+        "title":"Junior Web Developer",
+        "years":"July 2016 - October 2016",
+        "description":"As a Junior PHP Developer it was up to the development department maintain the web applications for LaunchedIT's customer base which is a variety of clients."
+      }
+    ],
+    "skills":[
+      {
+        "name":"JavaScript",
+        "level":"80%"
+      },
+      {
+        "name":"Node.js",
+        "level":"88%"
+      },
+      {
+        "name":"React.js",
+        "level":"65%"
+      },
+      {
+        "name":"Angular 2/4",
+        "level":"95%"
+      },
+      {
+        "name":"Bootstrap",
+        "level":"99%"
+      },
+      {
+        "name":"RxJs",
+        "level":"65%"
+      },
+      {
+        "name":"Ionic Framework",
+        "level":"50%"
+      },
+      {
+        "name":"Python",
+        "level":"75%"
+      },
+      {
+        "name":"HTML5",
+        "level":"95%"
+      },
+      {
+        "name":"JQUERY",
+        "level":"95%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects":[
+      {
+        "title":"Movie App",
+        "description":"In this project I wrote server-side code to store a list of my favorite movies, including box art imagery and a movie trailer URL. I then used my code to generate a static web page allowing visitors to browse movies and watch the trailers.",
+        "category":"Python",
+        "tags":"Python, Web Development",
+        "image":"movie.jpg",
+        "url":"http://port1.com"
+      },
+      {
+        "title":"Portfolio",
+        "description":"This project I made with React and HTML5/CSS3, Nodejs. The cool thing about this project is you only need to change the data in one file rather then searching for the data in multiple files.",
+        "category":"React.js",
+        "tags":"React, Web Development",
+        "image":"react.png",
+        "url":"http://port2.com"
+      },
+      {
+        "title":"Book Finder",
+        "description":"Another project written in React but in this project I utilized the Google Books API.",
+        "category":"Web Development",
+        "tags":"React, Web Programming",
+        "image":"book_finder.jpg",
+        "url":"http://port3.com"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "user":"Steve Jobs"
+      },
+      {
+        "text":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "user":"John Doe"
+      }
+    ]
+  }
+}
