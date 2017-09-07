@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
-## Snapshot of image with dummy data
+## Snapshot of project template with dummy data
 ![react-portfolio](public/images/ceevee.jpg?raw=True "react-portfolio")
 
 Below you will find some information on how to perform common tasks.<br>
