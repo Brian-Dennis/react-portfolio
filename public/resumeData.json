@@ -14,42 +14,22 @@
       "zipcode":"99022"
     },
     "website":"https://github.com/Brian-Dennis/",
-    "resumedownload":"http://something.com",
+    "resumedownload":"#",
     "social":[
       {
-        "name":"facebook",
-        "url":"http://facebook.com",
-        "className":"fa fa-facebook"
-      },
-      {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
-      },
-      {
         "name":"google-plus",
-        "url":"http://googleplus.com",
+        "url":"https://plus.google.com/u/0/110320986335120846390",
         "className":"fa fa-google-plus"
       },
       {
         "name":"linkedin",
-        "url":"http://linkedin.com",
+        "url":"https://www.linkedin.com/in/brian-dennis-62403b14a/",
         "className":"fa fa-linkedin"
       },
       {
-        "name":"instagram",
-        "url":"http://instagram.com",
-        "className":"fa fa-instagram"
-      },
-      {
         "name":"github",
-        "url":"http://github.com",
+        "url":"http://github.com/Brian-Dennis",
         "className":"fa fa-github"
-      },
-      {
-        "name":"skype",
-        "url":"http://skype.com",
-        "className":"fa fa-skype"
       }
     ]
   },
@@ -77,7 +57,7 @@
         "company":"LaunchedIT",
         "title":"Junior Web Developer",
         "years":"July 2016 - October 2016",
-        "description":"As a Junior PHP Developer it was up to the development department maintain the web applications for LaunchedIT's customer base which is a variety of clients."
+        "description":"As a Junior PHP Developer it was up to the development department to maintain the web applications for LaunchedIT's customer base which is a variety of clients."
       }
     ],
     "skills":[
@@ -86,28 +66,12 @@
         "level":"80%"
       },
       {
-        "name":"Node.js",
-        "level":"88%"
-      },
-      {
         "name":"React.js",
-        "level":"65%"
-      },
-      {
-        "name":"Angular 2/4",
-        "level":"95%"
+        "level":"55%"
       },
       {
         "name":"Bootstrap",
         "level":"99%"
-      },
-      {
-        "name":"RxJs",
-        "level":"65%"
-      },
-      {
-        "name":"Ionic Framework",
-        "level":"50%"
       },
       {
         "name":"Python",
@@ -117,10 +81,10 @@
         "name":"HTML5",
         "level":"95%"
       },
-      {
-        "name":"JQUERY",
-        "level":"95%"
-      }
+	  {
+		"name":"CSS",
+		"level":"95%"
+	  }
     ]
   },
   "portfolio":{
@@ -154,12 +118,12 @@
   "testimonials":{
     "testimonials":[
       {
-        "text":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        "user":"Steve Jobs"
+        "text":"Brian is a consistently reliable and productive team member, that always brings his best work to the job. He is prepared to face challenges and to use them as positive experiences. He is ambitious and creative, and always willing to contribute ideas. He is also quick to take action and keeps up in a fast-paced environment without sacrificing the quality of his work. I enjoyed working with Brian because I knew I could depend on him to complete his own individual tasks, help others, and have a positive attitude.",
+        "user":"Darci Dehn"
       },
       {
-        "text":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        "user":"John Doe"
+        "text":"In the time I worked with Brian he showed himself as a forward thinker with strong work drive and a limitless desire to learn more. His actions in the workplace and his excellent punctuality made him a very step above the rest employee. Brian would make an excellent asset to any company that would employ him.",
+        "user":"Alexander M. Judd"
       }
     ]
   }
