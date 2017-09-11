@@ -8,7 +8,7 @@ class Portfolio extends Component {
           return <div key={project.image} className="columns portfolio-item">
               <div className="item-wrap">
                   <a href="#modal-01" title="">
-                      <img alt="" src={imageUrl} width="215" height="143" />
+                      <img alt="" src={imageUrl} width="300" height="300" />
                       <div className="overlay">
                           <div className="portfolio-item-meta">
                               <h5>{project.title}</h5>

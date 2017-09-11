@@ -7,8 +7,8 @@ class Footer extends Component {
               <div className="row">
                  <div className="twelve columns">
                     <ul className="copyright">
-                       <li>&copy; Copyright 2017 Brian Dennis</li>
-                       <li>Design by Brian Dennis</li>
+                       <li>&copy; Copyright 2017 CeeVee</li>
+                       <li>Design by Styleshout</li>
                     </ul>
                  </div>
                  <div id="go-top"><a className="smoothscroll" title="Back to Top" href="#home"><i className="icon-up-open"></i></a></div>
